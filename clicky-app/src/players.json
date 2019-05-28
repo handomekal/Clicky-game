@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Michael Jordan",
+      "image": "https://images.complex.com/complex/image/upload/c_limit,w_680/fl_lossy,pg_1,q_auto/saxuiqw6jvjjddydj5ug.jpg",
+      "position": "SG",
+      "number": "9"
+    },
+    {
+      "id": 2,
+      "name": "Magic Johnson",
+      "image": "https://hips.hearstapps.com/esq.h-cdn.co/assets/cm/15/06/54d1ab4f0efe5_-_esq-10-dream-team-best-sport-uniforms-2013-c8d6th-mdn.jpg?resize=980:*",
+      "position": "PG",
+      "number": "15"
+    },
+    {
+      "id": 3,
+      "name": "Charles Barkley",
+      "image": "https://www.nba.com/suns/sites/suns/files/legacy/photos/barkley_dreamteam_shock.jpg",
+      "position": "14",
+      "number": "PF"
+    },
+    {
+      "id": 4,
+      "name": "Chris Mullin",
+      "image": "http://cdnb.20m.es/quefuede/files/mullin2.jpg",
+      "position": "SF",
+      "number": "13"
+    },
+    {
+      "id": 5,
+      "name": "John Stockton",
+      "image": "https://i.pinimg.com/originals/c7/1f/cd/c71fcd0f679c3593f7682b475cb18787.jpg",
+      "position": "PG",
+      "number": "12"
+    },
+    {
+      "id": 6,
+      "name": "Karl Malone",
+      "image": "https://i.pinimg.com/originals/80/f4/35/80f435982e0ccef659924205f94956a2.jpg",
+      "position": "PF",
+      "number": "11"
+    },
+    {
+      "id": 7,
+      "name": "Clyde Drexler",
+      "image": "https://theundefeated.com/wp-content/uploads/2017/06/gettyimages-1439936111.jpg?w=1066",
+      "position": "SG",
+      "number": "10"
+    },
+    {
+      "id": 8,
+      "name": "Scottie Pippen",
+      "image": "https://i.pinimg.com/564x/59/1b/7f/591b7f2f86837799867cbac90e499651.jpg",
+      "position": "SF",
+      "number": "8"
+    },
+    {
+      "id": 9,
+      "name": "Larry Bird",
+      "image": "https://i0.wp.com/www.nicekicks.com/files/2016/08/Bird-92-Olympics-Dream-Team.jpg?zoom=2&resize=500%2C645",
+      "position": "SF",
+      "number": "7"
+    },
+    {
+      "id": 10,
+      "name": "Patrick Ewing",
+      "image": "https://i2.wp.com/www.nicekicks.com/files/2016/08/Ewing-92-Olympics-Dream-Team.jpg?zoom=2&resize=462%2C700",
+      "position": "C",
+      "number": "6"
+    },
+    {
+      "id": 11,
+      "name": "David Robinson",
+      "image": "https://i0.wp.com/www.nicekicks.com/files/2016/08/DRob-2-92-Olympics-Dream-Team.jpg?zoom=2&resize=687%2C1200",
+      "position": "C",
+      "number": "5"
+    },
+    {
+      "id": 12,
+      "name": "Christian Laettner",
+      "image": "https://i2.wp.com/www.nicekicks.com/files/2016/08/Laett-Huarache-92-Olympics-Dream-Team.jpg?zoom=2&resize=683%2C1024",
+      "position": "PF",
+      "number": "4"
+    }
+  ]
+  
